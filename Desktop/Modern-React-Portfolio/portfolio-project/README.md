@@ -1,1 +1,3 @@
-git config --global http.postBuffer 524288000
+# Modern-React-Portfolio
+My personal portfolio website using Tailwind css and GSAP Animation.
+
